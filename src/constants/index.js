@@ -108,10 +108,6 @@ import {
       icon: git,
     },
     {
-      name:"github",
-      icon: github
-    },
-    {
       name: "redis",
       icon: redis
     },
@@ -294,8 +290,75 @@ import {
       image: Connexify,
       source_code_link: "https://github.com/Syed-Abdul-Ahad/Connexify-Real-time-chat-app.git",
     },
+    {
+      name: "Connexify",
+      description:
+        "Connexify is a real-time chat application that is developed using the MERN stack, Socket.io, Tailwind CSS, DaisyUI, and Redux. It offers seamless one-on-one messaging with real-time updates, user authentication, and online user tracking. With an elegant and responsive UI, Connexify ensures a smooth user experience across devices, making instant communication effortless and engaging.",
+      tags: [
+        {
+          name: "MERN",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Websockets",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Real time",
+          color: "pink-text-gradient",
+        },
+      ],
+      linkLogo: github,
+      image: Connexify,
+      source_code_link: "https://github.com/Syed-Abdul-Ahad/Connexify-Real-time-chat-app.git",
+    },
+  ];
 
+
+
+  const achievements = [
+    {
+      title: "2nd Place - Full Stack Frenzy Hackathon",
+      description: "Secured 2nd place in the Full Stack Frenzy Hackathon at Teknofest Pakistan 2024, competing among top developers, showcasing innovation in full-stack development.",
+      place: "Teknofest Pakistan 2024",
+      position: "2nd Place",
+      role: "Lead Developer, Backend & Frontend",
+      pic:reactjs,
+      technologies: ["Node.js", "Express", "MongoDB", "ReactJS", "JavaScript", "Tailwind CSS"],
+      contributions: "Developed a seamless movie streaming platform with real-time features, ensuring smooth video streaming, user authentication, and scalable architecture.",
+    },
+    {
+      title: "2nd Runner-up - IBA Pro Battle (UI/UX Category)",
+      description: "Achieved 2nd Runner-up position at IBA Pro Battle 2024 in the UI/UX category, designing an intuitive food delivery application.",
+      place: "IBA Pro Battle 2024",
+      position: "2nd Runner-up",
+      role: "UI/UX Designer",
+      pic: figma,
+      technologies: ["Figma", "Sketch", "Adobe XD"],
+      contributions: "Created user-friendly and visually appealing designs, focusing on seamless navigation and optimal user experience for the food delivery platform.",
+    },
+    {
+      title: "1st Prize - CodeSphere (NED University)",
+      description: "Won 1st Prize at CodeSphere (NED University) in the Software Development category for innovative problem-solving and design approach.",
+      place: "NED University",
+      position: "1st Prize",
+      role: "Lead Developer",
+      pic:Python,
+      technologies: ["ReactJS", "Node.js", "MongoDB", "Express", "JavaScript"],
+      contributions: "Developed a robust e-commerce platform, focusing on scalability, security, and real-time updates for users.",
+    },
+    {
+      title: "Hackathon Participation - Mavericks",
+      description: "Represented Mavericks team in various hackathons, gaining experience in fast-paced, competitive environments and further honing problem-solving skills.",
+      place: "Various Hackathons",
+      position: "Participant",
+      role: "Full Stack Developer",
+      pic:nodejs,
+      technologies: ["Node.js", "Express", "MongoDB", "ReactJS", "JavaScript", "Git"],
+      contributions: "Collaborated on multiple hackathon projects, focusing on both frontend and backend development, ensuring project deadlines were met with quality results.",
+    },
   ];
   
+  
 
-  export { services, technologies, experiences, testimonials, projects, navLinks};
+  export { services, technologies, experiences, testimonials, projects, navLinks, achievements};
