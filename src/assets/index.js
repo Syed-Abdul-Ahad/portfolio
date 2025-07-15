@@ -19,6 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
+import bootstrap from "./tech/Bootstrap.png";
 import CPP from "./tech/C++.png"
 import Oracle from "./tech/Oracle.png"
 import Python from "./tech/Python.png"
@@ -27,6 +28,12 @@ import Portfolio from './AA.jpeg'
 import StreamEase from './StreamEase.jpg'
 import Vision from "./Vision.jpg"
 import Connexify from "./Connexify.png"
+import express from "./tech/express.png";
+import nextjs from "./tech/nextjs.png";
+import mysql from "./tech/mysql.png";
+import postgresql from "./tech/postgresql.png";
+import typescript from "./tech/typescript.png";
+import nestjs from "./tech/nestjs.png";
 
 
 import meta from "./company/meta.png";
@@ -55,6 +62,7 @@ export {
   redux,
   tailwind,
   threejs,
+  bootstrap,
   CPP,
   Oracle,
   Python,
@@ -66,4 +74,10 @@ export {
   StreamEase,
   Vision,
   Connexify,
+  express,
+  nextjs,
+  mysql,
+  postgresql,
+  typescript,
+  nestjs,
 };

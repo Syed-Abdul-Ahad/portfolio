@@ -21,7 +21,16 @@ import {
     nodejs,
     redis,
     socket,
-    Connexify
+    bootstrap,
+    CPP,
+    Connexify,
+    docker,
+    express,
+    nextjs,
+    mysql,
+    postgresql,
+    typescript,
+    nestjs
   } from "../assets";
   
   const navLinks = [
@@ -63,14 +72,6 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
     {
       name: "JavaScript",
       icon: javascript,
@@ -114,7 +115,59 @@ import {
     {
       name:"socket.io",
       icon:socket
-    }
+    },
+    {
+      name: "Docker",
+      icon: docker,
+    },
+    {
+      name: "GitHub",
+      icon: github,
+    },
+    {
+      name: "Express",
+      icon: express,
+    },
+    {
+      name: "Next.js",
+      icon: nextjs,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
+      name: "PostgreSQL",
+      icon: postgresql,
+    },
+    {
+      name: "TypeScript",
+      icon: typescript,
+    },
+    {
+      name: "NestJS",
+      icon: nestjs,
+    },
+    {
+      name: "Bootstrap",
+      icon: bootstrap,
+    },
+    {
+      name: "C++",
+      icon: CPP,
+    },
+    {
+      name: "Python",
+      icon: Python,
+    },
+        {
+      name: "HTML 5",
+      icon: html,
+    },
+    {
+      name: "CSS 3",
+      icon: css,
+    },
   ];
   
   const experiences = [
