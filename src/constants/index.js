@@ -234,7 +234,7 @@ import {
       name: "Engr Simrah",
       designation: "Student",
       company: "NEDUET",
-      image: "https://media.licdn.com/dms/image/v2/D4D03AQGL_BOVtaoK0g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704591895294?e=2147483647&v=beta&t=Uz87NUWZ-9gdesGTPupa-upMpyvQrPydzlF3KQctMHk",
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQFvlg9pa0uWZw/profile-displayphoto-shrink_800_800/B4DZb3XJYiG0Ak-/0/1747906762784?e=1758153600&v=beta&t=xkfriXlCY-_t99dhAxYdRPoTbScESO1w_VQiDugbxro",
     },
     {
       testimonial:
@@ -242,7 +242,7 @@ import {
       name: "Arham Hasan",
       designation: "Student",
       company: "NEDUET",
-      image: "https://media.licdn.com/dms/image/v2/D4D03AQHU-KUkPi_wHA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694531495580?e=2147483647&v=beta&t=PaIIZ60vC93Wkj9Ivx43YMFI-3YF5wF5DBSoh1guyrM",
+      image: "https://media.licdn.com/dms/image/v2/D4E03AQHgWCEF86lPLw/profile-displayphoto-shrink_800_800/B4EZa1xXhiHoAg-/0/1746806340992?e=1758153600&v=beta&t=LZYQLbbgs1mBXUYaSpzkIJPGPkqEhNmMzA9jIuU5tY4",
     },
     {
       testimonial:

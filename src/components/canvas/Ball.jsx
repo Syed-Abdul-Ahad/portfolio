@@ -1,5 +1,4 @@
 import { Suspense } from "react"
-import React from 'react'
 import { Canvas } from "@react-three/fiber" 
 import {
   Decal, Float, OrbitControls, Preload, useTexture
