@@ -29,7 +29,7 @@ import StreamEase from './StreamEase.jpg'
 import Vision from "./Vision.jpg"
 import Connexify from "./Connexify.png"
 import express from "./tech/express.png";
-import nextjs from "./tech/nextjs.png";
+import nextjs from "./tech/Nextjs.png";
 import mysql from "./tech/mysql.png";
 import postgresql from "./tech/postgresql.png";
 import typescript from "./tech/typescript.png";
